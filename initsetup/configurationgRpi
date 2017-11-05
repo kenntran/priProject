@@ -56,16 +56,13 @@ fi
 
 #Adding ssh public key of Jonathan - Minna - Nhut to Raspberry Pi
 #Jonathan
-echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoH09biKb9EEAnGOJX5rAlKL1saWy5Bkjp+6aJmpSzjzC7bg6JRyF0pArs0yTPdl/69ELpoVX1yJBk2yD4dtAwq2rK0I1TyBLwQ4i6iwfGzv5FPo252pMWHRKAvdpddHzOWC9XWImQQt1ADqXEQWEtZdh0ANo7oQRT/rv8no8KW76OfIGyU2jhdnXEAU3jUJHNeIj7CNp2mtFx4KHIlg/a+mS2yRl9qoQZFEnbpQPnG8sYhgi8fzJqU+WPh9zC0pKfWvjNg96aFMzSadye9vZ7QgCm6Ah3wzt5Rwl1frNtntFgWHeiIsmVVpCGOVGOSBJj1/04qXLO+TBizo7tslmP Descartes@DESKTOP-P9GMTTV
-' >> /home/buildingenergy/.ssh/authorized_keys
+echo ' ' >> /home/buildingenergy/.ssh/authorized_keys
 
 #Minna
-echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPCKHBiJ9QiwsfSPcYMnXbsCYhiP8TjpCu0VjSPulPWCsAsD15MbHej4WgVQshpihmFKS5IIEq7nqnbs19rhziXXrg39e4mBu7eLkpaR9vJIuwC2FgierYZnrPfQ57Jms1p/J05o8/aO14pgfd+w6okOyxfb6auknBRZwRzAm5ydBUyVR3UlJkvR6Z6iuWF9Ip+/sfrL4c9Ig5e3btmH68nL+y3l/TRWS1Z4NED3OoNmnfarv322RKJeoxq7nKRNp37FlWQ/D34XNmkwLvLFAXLmha36w3heVz9NZnkG+5ptRecGbBdlqgxozt/x+lTnjO5MDAq+GApyvG/R0Xd3gJ Minna@DESKTOP-R6PGEJR
-' >> /home/buildingenergy/.ssh/authorized_keys
+echo ' ' >> /home/buildingenergy/.ssh/authorized_keys
 
 #Nhut
-echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFxWIm6HtDPZLLT13rObvCmjwrMPZFOLPwnjmxLW2zM4dmXCg85pFimqeZftGJq3F2J8Gqk1e3/IaNLG8zlQrh8xYstx9ipezVwuxx0GWbd3CVNotonafpForIO8GDIWHZhX6NwwJb7GqnqfQCrs7rOFxTcpERZ5vE4dSZJsfL6WmuTT3cxlFfqhhQ5wBSVrqDrngbA2pgVn1g4R12pcyGt4S7tr3oTZGfbk5vXf2nPXULHHK3Fd4DAsguxwpn9esyxHpGmbpeSFodyizjaiqfqjJMn/TQAyw8Jpmv8sqVylKjnvNy+FDjhLD0TM4lARSQzuXMKVmznHRyTJ70iUd9 kenntran992@hotmail.com
-' >> /home/buildingenergy/.ssh/authorized_keys
+echo ' ' >> /home/buildingenergy/.ssh/authorized_keys
 
 
 exit 0

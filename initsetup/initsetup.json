@@ -1,0 +1,31 @@
+{
+	"name": "initsetup",
+	"text": "Setting Up RPI\\nNetwork: %1\\nPass: %2\\nType: %3",
+	"script": "configuration.py",
+	"network": false,
+	"continue": true,
+	"type": "setting",
+	"category": "setting",
+	"shortDescription":"A few words to describe what this block is",
+	"longDescription":"A longer description to describe this block, with information on what the block does, what the inputs in the block are for, and what types they should be. Also whether the block requires a network connection.",
+	"supportedOperatingSystems": [
+		"raspbian-pibakery.img",
+		"raspbian-lite-pibakery.img"
+	],
+	"args": [
+		{
+			"type": "text",
+			"default": "network-name",
+			"maxLength":0
+		},
+		{
+			"type": "text",
+			"default": "network-password",
+			"maxLength":0
+		},
+		{
+			"type": "menu",
+			"options": ["WPA/WPA2", "WEP", "Open (no password)"]
+		}
+	]
+}
