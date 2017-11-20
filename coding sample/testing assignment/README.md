@@ -1,8 +1,9 @@
+# Testing Assignment
 This is an assignment for testing course but it was failed due to lack of test cases
 
 But it's successful to build basic functions for these requirments:
 
-Requirements
+## Requirements
 
 As a user I want to have a "pocket calculator"*
 As a user I want to see if numbers are odd or even from 1 to given number
