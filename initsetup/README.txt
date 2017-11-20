@@ -1,10 +1,12 @@
+#Building Energy project
+
 Files for configuring for RPI - for building energy project
 10/2017
 	
-	
+##Bash Script File	
 1. Bash script file works fine after boot but it could not be implemmented with Pibakery because it needs to receive information from terminal
 	
-	
+##Using Pibakery	
 2. initsetup folder - which containt essential files for using PiBakery to initial setup for RPI 
 	
 	Including:
@@ -18,7 +20,7 @@ Files for configuring for RPI - for building energy project
 	- Copying SSH public keys of team's member to RPI to connect SSH passwordless
 	
 	
-Note: 
+###Note: 
 	
 If you would like to import a folder to PiBakery, you can drap and drop. 
 	
