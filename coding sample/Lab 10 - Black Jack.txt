@@ -216,13 +216,14 @@ void winning()                                    //print "winning" and show the
 {
   // Using Serial monitor to check the value
   
-  /*
-  Serial.print("Player value: ");
-  Serial.println(totalValue);
-  Serial.print("Dealer value: ");
-  Serial.println(dealerTotal);
-  Serial.println("Player WIN");
-  */
+  /*******************************
+  * Using those code for checking result through Serial monitor of Arduino
+  *Serial.print("Player value: ");
+  *Serial.println(totalValue);
+  *Serial.print("Dealer value: ");
+  *Serial.println(dealerTotal);
+  *Serial.println("Player WIN");
+  *********************************/
     
   lcd.clear();
   lcd.setCursor(0,0);
@@ -267,14 +268,15 @@ void winning()                                    //print "winning" and show the
 ********************************************************************/
 void losing()                                     // print "lose" and show their final result
 {
-  // Using Serial monitor to check the value
-  /*
-  Serial.print("Player value: ");
-  Serial.println(totalValue);
-  Serial.print("Dealer value: ");
-  Serial.println(dealerTotal);
-  Serial.println("Player LOSE");
-  */
+
+  /*******************************
+  * Using those code for checking result through Serial monitor of Arduino
+  *Serial.print("Player value: ");
+  *Serial.println(totalValue);
+  *Serial.print("Dealer value: ");
+  *Serial.println(dealerTotal);
+  *Serial.println("Player LOSE");
+  *********************************/
   
   lcd.clear(); 
   lcd.setCursor(0,0);
