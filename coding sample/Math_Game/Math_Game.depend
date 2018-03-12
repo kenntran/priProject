@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1519417701 source:c:\users\kennt\desktop\testing_project\math_game\main.c
+	"Header.h"
+
+1519329608 c:\users\kennt\desktop\testing_project\math_game\include\easy_round.h
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1519320596 source:c:\users\kennt\desktop\testing_project\math_game\src\easy_round.cpp
+	"Easy_Round.h"
+
+1519418602 source:c:\users\kennt\desktop\testing_project\math_game\src\easy_round.c
+	"Header.h"
+
+1519418602 source:c:\users\kennt\desktop\testing_project\math_game\src\difficult_round.c
+	"Header.h"
+
+1519329516 c:\users\kennt\desktop\testing_project\math_game\include\difficult_round.h
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1519418602 source:c:\users\kennt\desktop\testing_project\math_game\src\normal_round.c
+	"Header.h"
+
+1519329851 c:\users\kennt\desktop\testing_project\math_game\include\normal_round.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1519413921 c:\users\kennt\desktop\testing_project\math_game\include\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
