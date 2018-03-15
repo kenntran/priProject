@@ -9,10 +9,10 @@ Contain
 -------
 ### Building Energy Project
 * initsetup
- - Early version for setup RPI environment(adding SSH pub_key, configuring wifi connection, creating buildingenergy account on RPI...) 
+ 	- Early version for setup RPI environment(adding SSH pub_key, configuring wifi connection, creating buildingenergy account on RPI...) 
 
 * addGitrepo
- - It has been used for setup RPI environment(install essential packages, updating RPI ip_address to GIT repository, enable GPIO pins to read 1-wire sensor...)
+ 	- It has been used for setup RPI environment(install essential packages, updating RPI ip_address to GIT repository, enable GPIO pins to read 1-wire sensor...)
 
 ### Cooling-system project (FAN project) - using Arduino and Interrupt function
 
