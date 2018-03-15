@@ -42,7 +42,7 @@ void Diffcult_Round()
 
 }
 
-void Conver_To_Binary(const int* random_Num, int* result )      //const int* - to prevent the unintended changing
+void Conver_To_Binary(const int* random_Num, int* result )     
 {
     int Num = *random_Num;
     for(int i = 0; i < 7; i++)
