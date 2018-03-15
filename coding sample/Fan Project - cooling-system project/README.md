@@ -3,10 +3,10 @@
 
 Descriptions
 ----------
- Due to the demand of users, the FAN will be automated accordingly to the temperature of ambient environment
- The speed of FAN will be changed accordingly to the signal which will be read by thermal sensor LM35
- The sensor will read the temperature data from environment each 4ms by using Interrupt routine 
- Using Interrtupt rountine to read the temperature data to avoid the time jitter or delay in main loop to increase the accuracy of the system
+ 	- Due to the demand of users, the FAN will be automated accordingly to the temperature of ambient environment
+ 	- The speed of FAN will be changed accordingly to the signal which will be read by thermal sensor LM35
+ 	- The sensor will read the temperature data from environment each 4ms by using Interrupt routine 
+ 	- Using Interrtupt rountine to read the temperature data to avoid the time jitter or delay in main loop to increase the accuracy of the system
 
 Platform
 --------
