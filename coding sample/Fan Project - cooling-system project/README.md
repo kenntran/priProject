@@ -18,7 +18,7 @@ Demo video
 
 Note
 ----
-## Interrupt function
+### Interrupt function
 * This project control the reading function by using Interrupt function of Arduino 
 ```
 ISR(TIMER1_COMPA_vect) 
@@ -53,7 +53,7 @@ We have used `volatile` keywork to notify to complier that always check the valu
 volatile int sensorVal = 0;
 ```  
 
-## runningFan function
+### runningFan function
 * In this project, we have used `map()` function of Arduino to compare the value of `convertTemperature` value and limited analog value to control the FAN's speed
 ```
 fanSpeed = map(convertTemperature,10,60,0,255);
