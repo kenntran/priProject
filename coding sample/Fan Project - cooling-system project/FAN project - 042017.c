@@ -213,7 +213,11 @@ void runningFan()
   analogWrite(INB,fanSpeed);  
 }
 
-
+/**********************************************************************
+* Interrupt function
+* Used for reading temperature data from sensor
+* This function also used to protect temperatre data from data stream
+**********************************************************************/
 ISR(TIMER1_COMPA_vect) {  
   sensorVal = analogRead(A5);
 }
