@@ -1,0 +1,80 @@
+111#Cash on hand
+112#Cash in bank
+113#Cash in transit
+121#Short term securities investment
+128#Other short term investment
+129#Provision short term investment
+131#Receivables from customers
+133#VAT deducted
+136#Internal Receivables
+138#Other receivables
+139#Provision for bad receivables
+141#Advances (detailed by receivers)
+142#Short-term prepaid expenses
+144#Mortage, collateral & short term deposits
+151#Purchased goods in transit
+152#Raw materials
+153#Instrument & tools
+154#Cost for work in process
+155#Finished products
+156#Goods
+157#Entrusted goods for sale
+158#Goods in tax-suspension warehouse
+159#Provision for devaluation of stocks
+161#Administrative expenses
+211#Tangible fixed assets
+212#Fixed assets of finance leasing
+213#Intangible fixed assets
+214#Depreciation of fixed assets
+217#Investment real estate
+221#Investment in equity of subsidiaries
+221#Investment in equity of subsidiaries
+222#Joint venture capital contribution
+223#Investment in joint-venture
+228#Other long term investments
+229#Provision for long term investment devaluation
+241#Capital construction in process
+242#Long-term prepaid expenses
+243#Deffered income tax assets
+244#Long term collateral & deposit
+311#Short-term loan
+315#Long term loans due to date
+331#ABCDDDDDD
+333#Taxes and payable to state budget
+3331#Value Added Tax (VAT)
+33311#VAT output
+33312#VAT for imported goods
+3332#Special consumption tax
+3333#Import & export duties
+3334#Profit tax
+3335#Personal income tax
+3336#Natural resource tax
+3337#Land & housing tax, land rental charges
+3338#Other taxes
+3339#Fee & charge & other payables
+334#Payable to employees
+3341#Payable to employees
+3348#Payable to other employees
+335#Accruals
+336#Intercompany payable
+337#Construction contract progress payment due to customers
+338#Other payable
+341#Long-term borrowing
+342#Long-term liabilites
+343#Issued bond
+344#Long-term deposits received
+347#Deferred income tax
+351#Provisions fund for severance allowances
+352#Provisions for payables
+411#Working capital
+412#Differences upon asset revaluation
+413#Foreign exchange differences
+414#Investment & development funds
+415#Financial reserve funds
+418#Other funds
+419#Stock funds
+421#Undistributed earnings
+431#Bonus & welfare funds
+441#Construction investment fund
+461#Budget resources
+466#Budget resources used to acquire fixed assets

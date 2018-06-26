@@ -3,10 +3,15 @@
 
 Description
 -----------
-This repository is used for store the small school projects.
+This repository is used for storing the small school projects.
 
 Contain
 -------
+### C_Data_Structe
+* Knowledge gained from C_course to learn about the Data Structure in C. 
+	- Learning how to implement different data structures in C and use them to solve problems with simpler algorthims.
+	- Some exercises from course - Import/Export storage + Accounting system. 
+
 ### Building Energy Project
 * initsetup
  	- Early version for setup RPI environment(adding SSH pub_key, configuring wifi connection, creating buildingenergy account on RPI...) 
@@ -30,6 +35,9 @@ Contain
 
 ### Math game
 * Used for learning CI, unit test...
+
+	
+
 
 Author
 ------
