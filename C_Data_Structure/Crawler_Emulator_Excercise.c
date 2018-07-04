@@ -1,7 +1,7 @@
 /********************************************************************************************************************************
 	Crawler_Emulator
 
-	To simulate the simple opertation of google in finding different websites in websites / finding all different files in files 
+	To simulate the simple opertation of google in finding different websites in websites / finding different files in files 
 	
 	Unfortunely, the question is in Vietnamese, you could use google translate to translate to English.
 
